@@ -35,9 +35,9 @@
 
 <br />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainitu&show_icons=true&locale=en&layout=compact" alt="Sainitu" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainitu&show_icons=true&locale=en&layout=compact" alt="Sainitu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainitu&show_icons=true&locale=en" alt="Sainitu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainitu&show_icons=true&locale=en" alt="Sainitu" /></p> -->
 
 <!-- github stats card  -->
 <!-- [![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sainitu)](https://github.com/Sainitu)
@@ -57,4 +57,4 @@
 <!-- GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile. -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]() -->
 
-<!-- <img align="center" src="https://camo.githubusercontent.com/e6ca610fc97dc7bc66339557c55be0b62ff470030071afb38802c2107e6b3caf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6d6f6c6268617469613130303126" alt="anmolbhatia1001" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Sainitu&amp;" style="max-width: 100%;"> --> -->
+<!-- <img align="center" src="https://camo.githubusercontent.com/e6ca610fc97dc7bc66339557c55be0b62ff470030071afb38802c2107e6b3caf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6d6f6c6268617469613130303126" alt="anmolbhatia1001" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Sainitu&amp;" style="max-width: 100%;">  -->
