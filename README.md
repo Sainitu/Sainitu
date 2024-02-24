@@ -9,6 +9,7 @@
 - ✍️ Projects that I worked on recently :
   - [Log-so](https://github.com/Sainitu/LANDING-PAGE) :- an landing responsive web Page 
   - [Not-es](https://github.com/Sainitu/Notes) :- build an Notes app as an attempt to learn css
+  - and many more
 
 
 
